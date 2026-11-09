@@ -11,6 +11,6 @@ int main(void)
     else
     {
         printf("NG");
-    }
+    } 
     return 0;
 }

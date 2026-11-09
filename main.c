@@ -13,4 +13,4 @@ int main(void)
         printf("NG");
     } 
     return 0;
-}
+} 
